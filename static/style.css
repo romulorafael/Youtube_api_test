@@ -1,0 +1,27 @@
+body, #bgdiv, #filter_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    background-color: rgb(14,17,17);
+    color: white;
+}
+form{
+    text-align: center;
+}
+
+.h1_margin{
+    margin-top:15vh;
+}
+#table_div{
+    width: 80%;
+    text-align: center;
+}
+#filter_div{
+    background-color: rgba(0,0,0,.7);
+    color: white;
+}
+.table{
+    color: white;
+}
